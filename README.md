@@ -94,5 +94,7 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 <img width="476" height="562" alt="image" src="https://github.com/user-attachments/assets/5fe6aabf-ccd6-4f46-abed-9d3310874420" />
 
+<img width="977" height="751" alt="image" src="https://github.com/user-attachments/assets/b5db3753-a6b7-426d-b81f-8370ddc353d0" />
+
 ## RESULT
 Thus the LSTM-based Named Entity Recognition (NER) model was successfully developed and trained.
